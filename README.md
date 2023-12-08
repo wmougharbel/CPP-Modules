@@ -1,4 +1,4 @@
-# SC++ Modules
+# C++ Modules
 
 This repository contains my solutions and projects for the C++ modules at School 42. Each module focuses on different aspects of C++ programming, covering essential topics for mastering object-oriented programming and generic programming in C++.
 
