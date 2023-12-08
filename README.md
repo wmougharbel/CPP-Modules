@@ -29,7 +29,17 @@ In this module, students learn about constructors, copy constructors, operator o
 
 ## Module 03: Inheritance and Diamond Trap in C++
 
-Module 03 explores the concepts of inheritance and addresses the challenges associated with the diamond trap. Students learn how to design and implement class hierarchies and resolve common issues related to multiple inheritance.
+Module 03 explores the concepts of inheritance and addresses the challenges associated with the diamond trap. The diamond trap refers to a specific problem that can arise when a class inherits from two classes, both of which in turn inherit from a common base class. 
+```html
+  <pre>
+      A
+     / \
+    B   C
+     \ /
+      D
+  </pre>
+html```
+Students learn how to design and implement class hierarchies and resolve common issues related to multiple inheritance.
 
 ## Module 04: Polymorphism, Abstract Classes, and Interface Classes in C++
 
