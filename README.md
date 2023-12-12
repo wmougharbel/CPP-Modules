@@ -12,7 +12,7 @@ This repository contains my solutions and projects for the C++ modules at School
 6. [Module 05: Exceptions in C++](https://github.com/wmougharbel/CPP-Modules/tree/master/CPP_Module_05)
 7. [Module 06: Static Casting, Reinterpret Casting, and Dynamic Casting in C++](https://github.com/wmougharbel/CPP-Modules/tree/master/CPP_Module_06)
 8. [Module 07: Template Functions and Template Classes in C++](https://github.com/wmougharbel/CPP-Modules/tree/master/CPP_Module_07)
-9. [Module 08: Templated Containers, Iterators, and Algorithms in C++](#module-08)
+9. [Module 08: Templated Containers, Iterators, and Algorithms in C++](https://github.com/wmougharbel/CPP-Modules/tree/master/CPP_Module_08)
 10. [Module 09: Containers in C++](#module-09)
 
 ## Module 00: Introduction to Classes and Objects in C++
