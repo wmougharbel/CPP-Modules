@@ -13,7 +13,7 @@ This repository contains my solutions and projects for the C++ modules at School
 7. [Module 06: Static Casting, Reinterpret Casting, and Dynamic Casting in C++](https://github.com/wmougharbel/CPP-Modules/tree/master/CPP_Module_06)
 8. [Module 07: Template Functions and Template Classes in C++](https://github.com/wmougharbel/CPP-Modules/tree/master/CPP_Module_07)
 9. [Module 08: Templated Containers, Iterators, and Algorithms in C++](https://github.com/wmougharbel/CPP-Modules/tree/master/CPP_Module_08)
-10. [Module 09: Containers in C++](#module-09)
+10. [Module 09: Containers in C++](https://github.com/wmougharbel/CPP-Modules/tree/master/CPP_Module_09)
 
 ## Module 00: Introduction to Classes and Objects in C++
 
@@ -61,6 +61,6 @@ Building upon the knowledge gained in previous modules, Module 08 explores templ
 
 ## Module 09: Containers in C++
 
-The final module, Module 09, focuses specifically on various containers available in C++. Students learn about different container types, such as vectors, lists, and maps, and gain proficiency in choosing and using the appropriate container for different scenarios.
+The final module, Module 09, focuses specifically on various containers available in C++. Students learn about different container types, such as vectors, deques, lists, and maps, and gain proficiency in choosing and using the appropriate container for different scenarios.
 
 Feel free to explore the contents of each module to understand the concepts covered and review my solutions to the corresponding projects.
